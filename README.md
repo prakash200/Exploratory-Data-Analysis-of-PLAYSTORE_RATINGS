@@ -1,4 +1,4 @@
-# Playstore-Rating-Analysis-Using-Python
+#  EDA of Playstore-Rating-Analysis Using-Python
 
 OBJECTIVE 
 
